@@ -1,5 +1,10 @@
 # Google Ads Campaign Setup Project
 
+## Internship Details
+- Name: Ajay Vamsi
+- Intern ID: CT-545
+- Internship Domain: Digital Marketing
+- Organization: CodTech IT Solutions
 ## Project Overview
 This project demonstrates the setup of a Google Search Ads Campaign for an online clothing store.
 
